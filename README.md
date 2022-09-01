@@ -24,6 +24,8 @@
 - ⚡攀登的过程也许很漫长，但山巅的风景是值得的
 
 - 💬如果你有任何疑问，请与我联系，QQ:3096948550      邮箱:3096948550@qq.com
+
+<div align="center"> <img src="https://metrics.lecoq.io/insights?user=WangYinian-only"> </div>
 <!--
 **WangYinian-only/WangYinian-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
