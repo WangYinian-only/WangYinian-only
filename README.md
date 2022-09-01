@@ -3,13 +3,26 @@
 - 🌱我的兴趣是看电影、动漫、听音乐等等
 - 🤔个人编程能力：不夸张的说，我的编程能力比较差，虽然学习并且使用过C,C++,php,java,python......等一些语言，写过很多程序(不那么多)，但是编程中也往往会出现很多错误，很多情况下出现的错误我都需要上网查找怎么去修改；我编程比较注重格式化，比较在意编程中最基本的方面与细节；对于不会的方向我会积极的学习并且虚心的请教他人，对于一时半会难以攻克的点我会坚持不懈的努力攻克
 ****
-code use:
-<span > 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
-</span>
+
+- 🚀 I use daily:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
+  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+- 🌱 Learning all about:
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb) ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+
 ****
+
 - 💬：①我可以非常好的平衡自己的生活与学习，非常善于规划和管理自己的时间，可以达成work life balance; 
 
 - 💬：②更注重自己业务能力的提升，喜欢在工作上面深耕自己喜欢的专业，而不被外界环境所影响; 
