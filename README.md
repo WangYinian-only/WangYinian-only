@@ -41,7 +41,7 @@
 - ⚡攀登的过程也许很漫长，但山巅的风景是值得的
 ****
 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/WangYinian-only?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ****
 
